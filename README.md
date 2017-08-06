@@ -20,7 +20,8 @@ The pipeline consists of the following steps:
 ### 2. Identify potential shortcomings with your current pipeline
 
 **Issue 1**
-The detected lines lacks some stability and is shaky. This is due to the noises of hough lines. 
+
+The detected lines lacks some stability and is shaky. This especially obvious and problematic in the optional challenging video. This is due to the noises of hough lines. 
 
 **Issue 2**
 
